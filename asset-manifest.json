@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/web3-feedback-board/static/js/main.b1ef688e.js",
+    "index.html": "/web3-feedback-board/index.html",
+    "main.b1ef688e.js.map": "/web3-feedback-board/static/js/main.b1ef688e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b1ef688e.js"
+  ]
+}
